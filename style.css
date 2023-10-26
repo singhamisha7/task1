@@ -3,8 +3,22 @@ h1{
     padding-left: 45px;
     border: 60px;
 }
+h2{
+    padding-left: 85px;
+    border: 60px;
+}
 p{
     color: blue;
+    padding-left: 45px;
+    border: 45px;
+
+}
+th{
+    padding-left: 45px;
+    border: 45px;
+
+}
+td{
     padding-left: 45px;
     border: 45px;
 
