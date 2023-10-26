@@ -11,15 +11,21 @@ p{
     color: blue;
     padding-left: 45px;
     border: 45px;
-
 }
-th{
+td,label,th{
     padding-left: 45px;
     border: 45px;
-
 }
-td{
-    padding-left: 45px;
-    border: 45px;
-
+button{
+    /* padding-left: 45px; */
+    margin-left: 300px;
+}
+#email{
+    margin-left: 100px;
+}
+#psw{
+    margin-left: 75px;
+}
+#psw-repeat{
+    margin-left:25px;
 }
