@@ -1,0 +1,14 @@
+.wrapper{
+    padding: 60px 60px 60px 60px;
+
+}
+.para{
+    /* width: 40%; */
+    display: flex;
+}
+ul{
+    padding-left: 15px;
+}
+li{
+    /* display: list-item; */
+}
