@@ -1,0 +1,91 @@
+/* wrapper class */
+.wrapper {
+  display: flex;
+  padding: 50px 100px 50px 100px;
+  background-color: rgb(241, 241, 247);
+}
+/* first container class */
+.container1 {
+  padding: 100px 80px 100px 200px;
+  width: 60%;
+}
+/* heading h1 */
+h1 {
+  font-size: 80px;
+  color: rgb(86, 86, 218);
+}
+/* content */
+p {
+  font-size: 20px;
+}
+/* second container class */
+.container2 {
+  padding: 100px 150px 100px 100px;
+}
+/* styling form */
+.section--form {
+  width: 70%;
+  background-color: white;
+  border: 40px lightblue ;
+  margin: 10px 10px 10px 10px;
+  border-radius: 5%;
+  align-items: center;
+  padding: 70px 70px 70px 70px;
+}
+/* anchor tag */
+a {
+  text-decoration: none;
+  padding-left: 50px;
+}
+a:hover {
+  text-decoration: underline;
+}
+#emailph {
+  width: 80%;
+  border-color: lightgrey;
+  border-radius: 10%;
+  font-size: 15px;
+  padding: 10px 7px ;
+}
+#psw {
+  width: 80%;
+  margin-top: 20px;
+  border-color: lightgrey;
+  font-size: 15px;
+  border-radius: 8%;
+  padding: 10px 7px ;
+}
+#login {
+  background-color: blue; /* Blue */
+  border: none;
+  color: white;
+  padding: 15px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+  border-radius: 8px;
+  margin: 10px 20px 20px 0px;
+}
+#login:hover {
+  background-color: skyblue;
+  color: black;
+}
+#acc {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  margin-top: 30px;
+  padding: 15px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+  margin: 50px 20px 20px 0px;
+}
+#acc:hover {
+  background-color: lightgreen;
+  color: black;
+}
